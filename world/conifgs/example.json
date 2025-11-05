@@ -1,0 +1,31 @@
+{
+	"size": [9, 9],
+    "img_size": 336,
+	"objects": [
+    	{
+        	"count": 2,
+        	"color": "blue",
+        	"position": "N"
+    	},
+        {
+        	"count": 1,
+        	"color": "yellow",
+        	"position": "NW"
+    	},
+    	{
+        	"count": 1,
+        	"shape": "square",
+        	"position": [7,7]
+    	},
+    	{
+        	"count": 1,
+            "size": "small",
+        	"position": [7,7]
+    	},
+        {
+            "count": 1,
+            "position": [8, 2]
+        }
+	]
+}
+
